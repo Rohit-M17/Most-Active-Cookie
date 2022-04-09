@@ -12,4 +12,4 @@
 * I would have written some more logic to check if the values in the CSV file were correct before allowing them into my dictionary, but I thought that was outside the spec of the assignment.
 
 * I am unfamiliar with building systems, but I will research how to implement them. I appreciate you exposing me to this topic.
-When handed an assignment to work on, I love learning how everything works, and I enjoy learning how to improve my code for future functionality.
+When handed an assignment to work on, I love learning how everything works, and I enjoy learning how to improve my code for future functionality even more.
