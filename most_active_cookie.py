@@ -1,5 +1,3 @@
-# import csv
-# from multiprocessing.sharedctypes import Value
 from multiprocessing.sharedctypes import Value
 from operator import countOf
 from re import search
